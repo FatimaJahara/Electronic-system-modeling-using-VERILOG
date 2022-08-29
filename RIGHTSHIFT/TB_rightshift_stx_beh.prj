@@ -1,0 +1,3 @@
+vhdl isim_temp "DFLIPFLOP.vhd"
+vhdl isim_temp "RIGHTSHIFT.vhd"
+vhdl isim_temp "TB_rightshift.vhd"

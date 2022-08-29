@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/14.7/ISE_DS/Lab/RIGHTSHIFT/TB_rightshift_isim_beh.exe" -prj "E:/14.7/ISE_DS/Lab/RIGHTSHIFT/TB_rightshift_beh.prj" "work.TB_rightshift" 

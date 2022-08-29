@@ -1,0 +1,11 @@
+Running: E:\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib secureip -o E:/14.7/ISE_DS/Lab/RIGHTSHIFT/TB_rightshift_isim_beh.exe -prj E:/14.7/ISE_DS/Lab/RIGHTSHIFT/TB_rightshift_beh.prj work.TB_rightshift 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "E:/14.7/ISE_DS/Lab/RIGHTSHIFT/DFLIPFLOP.vhd" into library work
+Parsing VHDL file "E:/14.7/ISE_DS/Lab/RIGHTSHIFT/RIGHTSHIFT.vhd" into library work
+Parsing VHDL file "E:/14.7/ISE_DS/Lab/RIGHTSHIFT/TB_rightshift.vhd" into library work
+Starting static elaboration
+ERROR:HDLCompiler:410 - "E:/14.7/ISE_DS/Lab/RIGHTSHIFT/TB_rightshift.vhd" Line 15: Expression has 4 elements ; expected 3
+ERROR:Simulator:777 - Static elaboration of top level VHDL design unit tb_rightshift in library work failed

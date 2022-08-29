@@ -1,0 +1,28 @@
+Command line:
+   tb_Shift_Right_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  62865
+
+Tue Jan 28 14:58:38 2020
+
+
+ Elaboration Time: 0.09375 sec
+
+ Current Memory Usage: 5163.68 Meg
+
+ Total Signals          : 24
+ Total Nets             : 10
+ Total Signal Drivers   : 7
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 6
+ Total Traceable Variables  : 9
+ Total Scalar Nets and Variables : 371
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 5006.39 Meg
+
+Tue Jan 28 15:06:03 2020
+

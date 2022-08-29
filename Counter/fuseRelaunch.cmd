@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/14.7/ISE_DS/Lab/Counter/tb_Program_Counter_isim_beh.exe" -prj "E:/14.7/ISE_DS/Lab/Counter/tb_Program_Counter_beh.prj" "work.tb_Program_Counter" 

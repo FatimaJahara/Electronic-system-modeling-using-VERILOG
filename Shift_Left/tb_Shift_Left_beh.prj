@@ -1,0 +1,3 @@
+vhdl work "D_Component.vhd"
+vhdl work "Shift_Left.vhd"
+vhdl work "tb_Shift_Left.vhd"

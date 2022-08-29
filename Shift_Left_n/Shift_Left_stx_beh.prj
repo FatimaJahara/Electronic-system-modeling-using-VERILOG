@@ -1,0 +1,2 @@
+vhdl isim_temp "D_Component.vhd"
+vhdl isim_temp "Shift_Left.vhd"

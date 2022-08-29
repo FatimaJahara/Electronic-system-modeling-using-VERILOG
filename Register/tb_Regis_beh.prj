@@ -1,0 +1,3 @@
+vhdl work "D_Component.vhd"
+vhdl work "Regis.vhd"
+vhdl work "tb_Regis.vhd"

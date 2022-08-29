@@ -1,0 +1,3 @@
+vhdl work "Full_Adder.vhd"
+vhdl work "Parallel_Adder.vhd"
+vhdl work "tb_Parallel_Adder.vhd"

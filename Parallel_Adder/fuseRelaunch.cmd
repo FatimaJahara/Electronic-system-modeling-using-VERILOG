@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/Xilinx ISE Design Suite/Lab3/Parallel_Adder/tb_Parallel_Adder_isim_beh.exe" -prj "E:/Xilinx ISE Design Suite/Lab3/Parallel_Adder/tb_Parallel_Adder_beh.prj" "work.tb_Parallel_Adder" 

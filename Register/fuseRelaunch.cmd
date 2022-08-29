@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/14.7/ISE_DS/Lab/Register/tb_Regis_isim_beh.exe" -prj "E:/14.7/ISE_DS/Lab/Register/tb_Regis_beh.prj" "work.tb_Regis" 

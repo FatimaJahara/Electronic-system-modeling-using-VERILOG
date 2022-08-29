@@ -1,0 +1,3 @@
+vhdl work "DFLIPFLOP.vhd"
+vhdl work "RIGHTSHIFT.vhd"
+vhdl work "TB_rightshift.vhd"

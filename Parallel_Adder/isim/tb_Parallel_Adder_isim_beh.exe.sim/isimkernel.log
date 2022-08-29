@@ -1,0 +1,28 @@
+Command line:
+   tb_Parallel_Adder_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  57262
+
+Sat Jan 11 04:16:54 2020
+
+
+ Elaboration Time: 0.125 sec
+
+ Current Memory Usage: 5163.72 Meg
+
+ Total Signals          : 32
+ Total Nets             : 17
+ Total Signal Drivers   : 10
+ Total Blocks           : 7
+ Total Primitive Blocks : 5
+ Total Processes        : 9
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 377
+
+ Total Simulation Time: 0.140625 sec
+
+ Current Memory Usage: 5478.3 Meg
+
+Sat Jan 11 04:17:31 2020
+
